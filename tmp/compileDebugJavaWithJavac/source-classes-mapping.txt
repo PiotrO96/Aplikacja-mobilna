@@ -1,0 +1,14 @@
+com/example/atlasdrinkow/BuildConfig.java
+ com.example.atlasdrinkow.BuildConfig
+com/example/atlasdrinkow/KalkulatorActivity.java
+ com.example.atlasdrinkow.KalkulatorActivity
+com/example/atlasdrinkow/DrinkiAdapter.java
+ com.example.atlasdrinkow.DrinkiAdapter
+com/example/atlasdrinkow/CzynnoscActivity.java
+ com.example.atlasdrinkow.CzynnoscActivity
+com/example/atlasdrinkow/DodawanieActivity.java
+ com.example.atlasdrinkow.DodawanieActivity
+com/example/atlasdrinkow/MainActivity.java
+ com.example.atlasdrinkow.MainActivity
+com/example/atlasdrinkow/DrinkiListView.java
+ com.example.atlasdrinkow.DrinkiListView
